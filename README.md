@@ -5,7 +5,7 @@ This repository contains our solution for Simulation Workshop 1, implementing di
 ## Team/Authors
 Haben Eyasu
 Ke Qiu
-Ridwan Mohamed
+Ridwan Abdi
 
 ## Solution Overview
 
