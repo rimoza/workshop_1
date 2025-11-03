@@ -1,4 +1,4 @@
-# Simulation Workshop 1 - Student Solution
+# Simulation Workshop 1 - Solution
 
 This repository contains our solution for Simulation Workshop 1, implementing discrete-event simulation (DES) and process-based simulation models of a surgical unit. As Q group, we have analyzed the patient flow through preparation, surgery, and recovery phases, incorporating resource constraints and time-varying elements like staff shifts. This submission is ready for review by peers, other students, and professors.
 
