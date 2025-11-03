@@ -5,7 +5,7 @@ This repository contains our solution for Simulation Workshop 1, implementing di
 ## Team/Authors
 Haben Eyasu
 Ke Qiu
-Ridwan Mohamed
+Ridwan Abdi
 
 ## Solution Overview
 
@@ -19,8 +19,7 @@ We implemented a comprehensive simulation model of the surgical unit system, foc
 ## Repository Contents
 
 ### Solution Documents
-- `event-based-simulation.pdf` - Our event-based model specification and conceptual design
-- `process-based-imulation.pdf` - Detailed process-based implementation with lifecycle, resources, and experimental results
+- `assignment-1-solution.pdf` - Our comprehensive solution combining event-based and process-based models, including specifications, implementation, lifecycle, resources, and experimental results
 
 ### Supporting Diagrams (Embedded in PDFs)
 The following diagrams are embedded within the PDF documents and also available separately:
@@ -102,7 +101,7 @@ The following diagrams are embedded within the PDF documents and also available 
 - Learned to design experiments with statistical rigor
 
 ## Model Documentation
-Implementation details and theoretical models are fully documented in the PDF files, providing complete specifications for future coding implementation.
+Implementation details and theoretical models are fully documented in the PDF file, providing complete specifications for future coding implementation.
 
 ## References
 - Stewart Robinson (2004). Simulation – The practice of model development and use. Wiley.
@@ -111,7 +110,7 @@ Implementation details and theoretical models are fully documented in the PDF fi
 
 ## How to Review This Solution
 
-1. Start with the PDF documents for our model specifications
+1. Start with the PDF document for our model specifications
 2. Review the diagrams for visual understanding
 3. Examine our experimental results and analysis
 5. Suggest improvements or alternative approaches
